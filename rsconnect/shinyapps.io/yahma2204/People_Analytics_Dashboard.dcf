@@ -1,0 +1,14 @@
+name: People_Analytics_Dashboard
+title: People_Analytics_Dashboard
+username:
+account: yahma2204
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6401355
+bundleId: 5985313
+url: https://yahma2204.shinyapps.io/People_Analytics_Dashboard/
+when: 1654604688.41929
+lastSyncTime: 1654604688.41931
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: absent_test.csv|plot_explanation.png|test_attrition.csv|test_promotion.csv
